@@ -1,7 +1,12 @@
 # Free Model Aggregator
 
+[![make.fun](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01)
+![rank](https://make.fun/badge/free-model-aggregator-01/rank.svg)
+![reward](https://make.fun/badge/free-model-aggregator-01/reward.svg)
+
 One server, two client wires, ten free providers. Entry for the make.fun bounty
-**"The best free AI model aggregator"** (free-model-aggregator-01).
+["The best free AI model aggregator"](https://make.fun/bounty/free-model-aggregator-01)
+(free-model-aggregator-01).
 
 The server serves an OpenAI- and an Anthropic-compatible API over ten simulated
 free-tier model providers. It probes the providers, builds one catalog, and
