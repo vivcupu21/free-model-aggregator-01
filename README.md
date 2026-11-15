@@ -1,8 +1,8 @@
 # Free Model Aggregator
 
 [![make.fun](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01)
-![rank](https://make.fun/badge/free-model-aggregator-01/rank.svg)
-![reward](https://make.fun/badge/free-model-aggregator-01/reward.svg)
+[![rank](https://make.fun/badge/free-model-aggregator-01/vivcupu21/free-model-aggregator-01/rank.svg)](https://make.fun/bounty/free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/vivcupu21/free-model-aggregator-01/reward.svg)](https://make.fun/bounty/free-model-aggregator-01)
 
 One server, two client wires, ten free providers. Entry for the make.fun bounty
 ["The best free AI model aggregator"](https://make.fun/bounty/free-model-aggregator-01)
